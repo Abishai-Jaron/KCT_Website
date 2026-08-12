@@ -484,3 +484,15 @@ font-size:16px;
 }
 
 }
+@media(max-width:576px){
+
+    .navbar-brand{
+        font-size:24px;
+    }
+
+    .nav-link{
+        margin-left:0;
+        padding:10px 0;
+    }
+
+}
