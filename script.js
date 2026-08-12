@@ -1,6 +1,6 @@
 function sendMessage(){
 
-    alert("Thank you for contacting Kumaraguru College of Technology!\n\nYour message has been submitted successfully.");
+  alert("Thank you for contacting KCT!\n\nYour message has been submitted successfully. We will get back to you soon.");
 
     return false;
 
